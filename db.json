@@ -1,30 +1,221 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "8645"
+    },
+    {
+      "id": "b3d0",
+      "name": "Dominic Mulida"
+    },
+    {
+      "id": "26df",
+      "name": "Dominic Mulinda"
+    },
+    {
+      "id": "4a3e",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "786b",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "9b89",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "344a",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "4c52",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "6600",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "8a1d",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "8b6a",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "fba0",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "5e88",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "6007",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "5d2b",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "cfbc",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "a321",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "caba",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "e957",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "b243",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "6792",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "ab67",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "7b89",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "f20a",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "a0b1",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "d585",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "79ef",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "0041",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "2d8b",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "3b99",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "3478",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "716b",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "138f",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "d214",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "8c92",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "95f3",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "809f",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    },
+    {
+      "id": "dc52",
+      "name": "Dominic Mulinda",
+      "email": "domm@hc.co"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
